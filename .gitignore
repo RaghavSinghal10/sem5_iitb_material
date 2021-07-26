@@ -1,0 +1,5 @@
+# ignore contents of all private folders
+private*/*
+
+# ignore all assignment solutions
+solution_*
