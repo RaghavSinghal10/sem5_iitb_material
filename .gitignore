@@ -3,3 +3,7 @@ private*/*
 
 # ignore all assignment solutions
 solution_*
+
+# ignore videos
+*.mp4
+*.wav
